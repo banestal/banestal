@@ -6,7 +6,7 @@
 bentonanestal@gmail.com OR
 LinkedIn: https://www.linkedin.com/in/benton-anestal-562042260/
 
-As an aspiring information security professional with an aptitude for teamwork and results, I am genuinely passionate about the practical impact of securing vital information in our modern lives. With a dedication to developing effective solutions through collaborative thinking and problem-solving, I am driven to contribute to organizations and individuals by implementing robust security measures that foster trust and protection in our digital interactions. Let's Work.
+I am an upcoming information security professional with a Google certification in Cybersecurity and passion for practically securing digital data and assets for various stakeholders. During my previous work experience, I used collaborative thinking and problem-solving, to achieve customer satisfaction. I will contribute to organizations and individuals by implementing robust security measures and solutions that foster trust and protection in our digital interactions. 
 
 <!---
 banestal/banestal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
