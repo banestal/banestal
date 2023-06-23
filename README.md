@@ -2,7 +2,9 @@
 
 ## 🚀 Welcome To My Cybersecurity/Coding Work Portfolio 🚀
 
-I am an upcoming information security professional with a Google certification in Cybersecurity. I have a passion for securing digital data and assets for various stakeholders. I thrive on collaborative thinking and problem-solving to achieve customer satisfaction. Beyond my passion for cybersecurity, I'm also an intermediate programmer, skilled in Python and basic concepts of other languages like JS and Lua. Here you can find a collection of projects and code snippets I've worked on related to cybersecurity, information assurance, and programming.
+I am an upcoming information security professional with a Google certification in Cybersecurity. I have a passion for securing digital data and assets for various stakeholders. I thrive on collaborative thinking and problem-solving to achieve customer satisfaction. Complementing my commitment to cybersecurity, I'm also an intermediate programmer, skilled in Python and basic concepts of other languages like JavaScript and Lua. Here you can find a collection of projects and code snippets I've worked on related to cybersecurity, information assurance, and programming.
+
+## [My Portfolio](https://github.com/banestal/banestal)
 
 ### 👨‍💻 Languages and Tools:
 
