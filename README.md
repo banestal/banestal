@@ -1,8 +1,8 @@
 # Hi there 👋, I'm @banestal!
 
-## 🚀 Welcome To My Cybersecurity & Information Assurance Portfolio 🚀
+## 🚀 Welcome To My Cybersecurity/Coding Work Portfolio 🚀
 
-I am an upcoming information security professional with a Google certification in Cybersecurity. I have a passion for securing digital data and assets for various stakeholders. I thrive on collaborative thinking and problem-solving to achieve customer satisfaction. Here you can find a collection of projects and code snippets I've worked on related to cybersecurity and information assurance.
+I am an upcoming information security professional with a Google certification in Cybersecurity. I have a passion for securing digital data and assets for various stakeholders. I thrive on collaborative thinking and problem-solving to achieve customer satisfaction. Here you can find a collection of projects and code snippets I've worked on related to cybersecurity and information assurance as well as programming through Python (and other langauges soon).
 
 ### 👨‍💻 Languages and Tools:
 
