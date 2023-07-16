@@ -1,6 +1,6 @@
 # Password Strength Checker by Benton Anestal :lock: :key:
 
-Welcome to **Password Strength Checker**, a simple yet effective Python-based password security assessment tool! :sparkles: This program checks the strength of your password based on a variety of factors and provides a score out of 5. A higher score indicates a more secure password. This project demonstrates my ability to not only to code but to use coding for security reasons. This project integrates concepts of cybersecurity and advanced concepts of python such as file handling and more! 
+Welcome to my **Password Strength Checker**, a simple yet effective Python-based password security assessment tool! :sparkles: This program checks the strength of your password based on a variety of factors and provides a score out of 5. A higher score indicates a more secure password. This project demonstrates my ability to not only to code but to use coding for security reasons. This project integrates concepts of cybersecurity and advanced concepts of python such as file handling and more! 
 
 ## Table of Contents 📚
 
