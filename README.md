@@ -14,6 +14,10 @@ Here are some of the languages and tools I use:
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
 
+### 🏆 Earned Industry Certifications:
+#### 🐍 Offcial Python Institute:
+- *PCEP - Python Certified Entry-Level Programmer (Python Institute)*
+
 ### 🌱 I’m currently learning: 
 
 - Advanced concepts in Python programming
@@ -35,3 +39,4 @@ Cybersecurity projects, particularly in roles as a security analyst!
 banestal/banestal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
