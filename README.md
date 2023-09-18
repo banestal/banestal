@@ -1,4 +1,4 @@
-# Hi there 👋, I'm @banestal!
+# Hi👋, I'm @banestal!
 
 ## 🚀 Welcome To My Cybersecurity/Coding Work Portfolio 🚀
 
